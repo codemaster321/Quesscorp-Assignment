@@ -6,8 +6,8 @@ A lightweight, full-stack Human Resource Management System for employee and atte
 
 ## 🚀 Live Demo
 
-- **Frontend**: [https://hrms-lite.vercel.app](https://hrms-lite.vercel.app) *(Update after deployment)*
-- **Backend API**: [https://hrms-lite-api.onrender.com](https://hrms-lite-api.onrender.com) *(Update after deployment)*
+- **Frontend**: [https://quesscorpassignment.vercel.app/](https://quesscorpassignment.vercel.app/) 
+- **Backend API**: [https://quesscorp-assignment.onrender.com/](https://quesscorp-assignment.onrender.com/)
 - **API Documentation**: [Backend URL]/docs
 
 ## 📋 Project Overview
