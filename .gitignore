@@ -1,0 +1,31 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+tmp/
+temp/
+logs/
+*.log
+
+# Project specific
+.gemini/
+.agent/
+brain/
+implementation_plan.md
+task.md
+walkthrough.md
+*.webp
+*.mp4
