@@ -33,7 +33,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",  # Vite dev server
         "http://localhost:3000",  # Alternative dev server
-        "https://*.vercel.app",   # Vercel deployments
+        "https://quesscorpassignment.vercel.app",  # Production frontend
     ],
     allow_credentials=True,
     allow_methods=["*"],
